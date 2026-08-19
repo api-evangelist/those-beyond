@@ -25,7 +25,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://static1.squarespace.com/static/639c7fc9b5a46a5bc6789ece/t/63add4a353cb3e267500db35/1672336547699/ThoseBeyond-Social.jpg?format=1500w
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
